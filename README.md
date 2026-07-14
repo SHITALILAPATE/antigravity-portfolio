@@ -12,7 +12,8 @@ A premium, immersive developer portfolio built with **Next.js**, **TypeScript**,
 
 > Add a screenshot here after uploading one.
 
-![Portfolio Preview](./public/preview.png)
+![Portfolio Preview](./public/<img width="1914" height="941" alt="ss png" src="https://github.com/user-attachments/assets/21d53742-96a9-4891-be2d-4a651017d863" />
+)
 
 ---
 
